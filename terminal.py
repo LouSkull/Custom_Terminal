@@ -11,9 +11,9 @@ if __name__ == "__main__":
     print(
         """
 BEENDER TERMINAL
-VERSION (0.13.21.1)
+VERSION (5.7.2-PolarisBeta)
 HELP COMMAND "?"
-TELEGRAM CHANNEL "t.me/beendernewdox"
+GUTHUB "https://github.com/LouSkull"
         """
     )
     os.system("title TERMINAL")
